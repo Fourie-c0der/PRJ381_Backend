@@ -1,0 +1,9 @@
+# FBX → OBJ
+blender --background --python Tools/laser_pipeline/blender_convert.py -- INPUT.fbx OUTPUT.obj
+
+# FBX → PNG
+blender --background --python Tools/laser_pipeline/blender_render_png.py -- INPUT.fbx OUTPUT.png
+
+# OBJ → SVG slices
+# first activate your venv, then:
+python Tools/laser_pipeline/cutter.py

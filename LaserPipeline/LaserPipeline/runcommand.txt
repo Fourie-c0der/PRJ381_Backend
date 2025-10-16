@@ -1,0 +1,5 @@
+& "C:\Program Files (x86)\Steam\steamapps\common\Blender\blender.exe" `
+--background `
+--python "C:\Users\USER-PC\OneDrive - belgiumcampus.ac.za\LaserPipeline\unfold_to_svg.py" `
+-- "C:\Users\USER-PC\OneDrive - belgiumcampus.ac.za\LaserPipeline\models\sphere.blend" `
+-- "C:\Users\USER-PC\OneDrive - belgiumcampus.ac.za\LaserPipeline\output" "70"

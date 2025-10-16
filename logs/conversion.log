@@ -1,7 +1,0 @@
-[2025-10-16 10:19:15] 
-=== Starting lightweight Blender→GBLR mock conversion ===
-[2025-10-16 10:19:15] 🟡 Converting: blender_assets.cats.txt
-[2025-10-16 10:19:15] ✅ Created: output_gblr\blender_assets.cats.gblr.svg
-[2025-10-16 10:19:15] 🟡 Converting: bounding_box__edges_to_pipes.blend
-[2025-10-16 10:19:15] ✅ Created: output_gblr\bounding_box__edges_to_pipes.gblr.svg
-[2025-10-16 10:19:15] 🏁 Conversion process completed.
